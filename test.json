@@ -1,1 +1,17 @@
-"{\"draw\":\"1\",\"recordsTotal\":32,\"recordsFiltered\":32,\"data\":[[1,\"ASSA RENT CAR\",null,\" Tidak Aktif <\\\/a>\",\"\\r\\n\n\t\t\\r\\n <\\\/i><\\\/a> \\r\\n <\\\/i><\\\/a>\\r\\n <\\\/div>\\r\\n \"],[2,\"BANK ABC\",null,\" Tidak Aktif <\\\/a>\",\"\\r\\n\n\t\t\\r\\n <\\\/i><\\\/a> \\r\\n <\\\/i><\\\/a>\\r\\n <\\\/div>\\r\\n \"],[3,\"Bank BCA\",null,\" Aktif <\\\/a>\",\"\\r\\n\n\t\t\\r\\n <\\\/i><\\\/a> \\r\\n <\\\/i><\\\/a>\\r\\n <\\\/div>\\r\\n \"],[4,\"Bank Bukopin\",null,\" Aktif <\\\/a>\",\"\\r\\n\n\t\t\\r\\n <\\\/i><\\\/a> \\r\\n <\\\/i><\\\/a>\\r\\n <\\\/div>\\r\\n \"],[5,\"BANK BUMI PUTERA\",\"B\\u0000A\\u0000N\\u0000K\\u0000 \\u0000B\\u0000U\\u0000M\\u0000I\\u0000 \\u0000P\\u0000U\\u0000T\\u0000E\\u0000R\\u0000A\\u0000\",\" Tidak Aktif <\\\/a>\",\"\\r\\n\n\t\t\\r\\n <\\\/i><\\\/a> \\r\\n <\\\/i><\\\/a>\\r\\n <\\\/div>\\r\\n \"],[6,\"Bank Danamon\",null,\" Aktif <\\\/a>\",\"\\r\\n\n\t\t\\r\\n <\\\/i><\\\/a> \\r\\n <\\\/i><\\\/a>\\r\\n <\\\/div>\\r\\n \"],[7,\"Bank DKI\",null,\" Aktif <\\\/a>\",\"\\r\\n\n\t\t\\r\\n <\\\/i><\\\/a> \\r\\n <\\\/i><\\\/a>\\r\\n <\\\/div>\\r\\n \"],[8,\"Bank Ekonomi\",null,\" Aktif <\\\/a>\",\"\\r\\n\n\t\t\\r\\n <\\\/i><\\\/a> \\r\\n <\\\/i><\\\/a>\\r\\n <\\\/div>\\r\\n \"],[9,\"Bank Jabar Banten\",null,\" Aktif <\\\/a>\",\"\\r\\n\n\t\t\\r\\n <\\\/i><\\\/a> \\r\\n <\\\/i><\\\/a>\\r\\n <\\\/div>\\r\\n \"],[10,\"BANK JATENG\",\"B\\u0000A\\u0000N\\u0000K\\u0000 \\u0000B\\u0000P\\u0000D\\u0000 \\u0000J\\u0000A\\u0000T\\u0000E\\u0000N\\u0000G\\u0000\",\" Aktif <\\\/a>\",\"\\r\\n\n\t\t\\r\\n <\\\/i><\\\/a> \\r\\n <\\\/i><\\\/a>\\r\\n <\\\/div>\\r\\n \"]]}"
+{
+
+    "swagger": "2.0",
+    "info": {
+        "description": "This is a sample server Petstore server.  You can find out more about Swagger at [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).  For this sample, you can use the api key `special-key` to test the authorization filters.",
+        "version": "1.0.0",
+        "title": "Swagger Petstore",
+        "termsOfService": "http://swagger.io/terms/",
+        "contact": {
+            "email": "apiteam@swagger.io"
+        },
+        "license": {
+            "name": "Apache 2.0",
+            "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+        }
+},
+}
