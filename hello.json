@@ -1,6 +1,6 @@
 {
     "basePath": "http://localhost/auth/",
-    "swaggerVersion": "1.2",
+    "swaggerVersion": "2.0",
     "apiVersion": "0.2",
     "resourcePath": "/welcome",
     "apis": [
